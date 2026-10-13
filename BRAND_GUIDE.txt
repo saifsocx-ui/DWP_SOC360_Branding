@@ -1,0 +1,13 @@
+DWP SOC360 BRAND ASSETS
+
+Name: DWP SOC360
+Colors: DWP Blue #0864A5; DWP Red #E32636; Midnight Navy #071527; White #FFFFFF
+Colors sampled visually from supplied JPG; verify against corporate brand standards.
+Font: DejaVu Sans Bold. Logo SVG text is converted to paths and has no external font dependency.
+
+The supplied 200x200 JPG is retained in reference. The eagle symbol is a manually redrawn vector interpretation, not an original approved corporate vector. Review the emblem with the brand owner before production deployment.
+Light means readable on a light background; dark means readable on a dark background.
+Use logo-dark for dark dashboard/loading surfaces. Small icons intentionally contain only the emblem.
+All logos keep their aspect ratio and use transparent PNG backgrounds. Report logo is transparent for white PDFs.
+Apple and app icons use a solid navy background.
+Editable masters are SVG and can be opened in Illustrator, Inkscape or Figma. Background is raster artwork, supplied as a high-resolution JPG and original generated master.

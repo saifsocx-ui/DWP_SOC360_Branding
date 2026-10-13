@@ -1,0 +1,174 @@
+[
+  {
+    "file": "BRAND_GUIDE.txt",
+    "bytes": 1054
+  },
+  {
+    "file": "backgrounds/login-bg.jpg",
+    "bytes": 611725,
+    "width": 2560,
+    "height": 1440,
+    "mode": "RGB"
+  },
+  {
+    "file": "editable/DejaVuSans-Bold.ttf",
+    "bytes": 708920
+  },
+  {
+    "file": "editable/font-license.txt",
+    "bytes": 3859
+  },
+  {
+    "file": "editable/horizontal-logo-dark-master.svg",
+    "bytes": 9979
+  },
+  {
+    "file": "editable/horizontal-logo-light-master.svg",
+    "bytes": 9979
+  },
+  {
+    "file": "editable/login-background-original.png",
+    "bytes": 1747718,
+    "width": 1672,
+    "height": 941,
+    "mode": "RGB"
+  },
+  {
+    "file": "editable/square-icon-master.svg",
+    "bytes": 746
+  },
+  {
+    "file": "icons/apple-touch-icon.png",
+    "bytes": 7636,
+    "width": 180,
+    "height": 180,
+    "mode": "RGBA"
+  },
+  {
+    "file": "icons/favicon-96x96.png",
+    "bytes": 3344,
+    "width": 96,
+    "height": 96,
+    "mode": "RGBA"
+  },
+  {
+    "file": "icons/favicon.ico",
+    "bytes": 15086,
+    "width": 48,
+    "height": 48,
+    "mode": "RGBA"
+  },
+  {
+    "file": "icons/favicon.svg",
+    "bytes": 678
+  },
+  {
+    "file": "icons/icon-master-1024.png",
+    "bytes": 50394,
+    "width": 1024,
+    "height": 1024,
+    "mode": "RGBA"
+  },
+  {
+    "file": "icons/mark-dark.svg",
+    "bytes": 678
+  },
+  {
+    "file": "icons/mark-light.svg",
+    "bytes": 678
+  },
+  {
+    "file": "icons/web-app-manifest-192x192.png",
+    "bytes": 8184,
+    "width": 192,
+    "height": 192,
+    "mode": "RGBA"
+  },
+  {
+    "file": "icons/web-app-manifest-512x512.png",
+    "bytes": 23352,
+    "width": 512,
+    "height": 512,
+    "mode": "RGBA"
+  },
+  {
+    "file": "logos/healthcheck-logo.png",
+    "bytes": 6790,
+    "width": 300,
+    "height": 70,
+    "mode": "RGBA"
+  },
+  {
+    "file": "logos/healthcheck-logo.svg",
+    "bytes": 9979
+  },
+  {
+    "file": "logos/loading-logo.png",
+    "bytes": 6790,
+    "width": 300,
+    "height": 70,
+    "mode": "RGBA"
+  },
+  {
+    "file": "logos/loading-logo.svg",
+    "bytes": 9979
+  },
+  {
+    "file": "logos/login-logo.png",
+    "bytes": 14070,
+    "width": 600,
+    "height": 140,
+    "mode": "RGBA"
+  },
+  {
+    "file": "logos/login-logo.svg",
+    "bytes": 9980
+  },
+  {
+    "file": "logos/logo-dark.png",
+    "bytes": 4991,
+    "width": 300,
+    "height": 70,
+    "mode": "RGBA"
+  },
+  {
+    "file": "logos/logo-dark.svg",
+    "bytes": 9979
+  },
+  {
+    "file": "logos/logo-light.png",
+    "bytes": 6790,
+    "width": 300,
+    "height": 70,
+    "mode": "RGBA"
+  },
+  {
+    "file": "logos/logo-light.svg",
+    "bytes": 9979
+  },
+  {
+    "file": "logos/report-logo.png",
+    "bytes": 3714,
+    "width": 190,
+    "height": 40,
+    "mode": "RGBA"
+  },
+  {
+    "file": "logos/report-logo.svg",
+    "bytes": 9979
+  },
+  {
+    "file": "preview.png",
+    "bytes": 103437,
+    "width": 900,
+    "height": 440,
+    "mode": "RGB"
+  },
+  {
+    "file": "reference/supplied-dwp-tech-logo.jpg",
+    "bytes": 9148,
+    "width": 200,
+    "height": 200,
+    "mode": "RGB"
+  }
+]
